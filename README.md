@@ -61,3 +61,25 @@ Frontend is built using **React (Vite)** + **Tailwind**, backend uses **Spring B
 | **Image → Ghibli Art Transformation Page** | ![ImageToImage]([./screenshots/image_to_image.png](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/9a7f5af286c0449753c8c50ca6c6de40114a9950/Screenshots/Screenshot%202025-11-05%20000640.png)) |
 | **Ghibli Art Library / Gallery** | ![Library]([./screenshots/library.png](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/9a7f5af286c0449753c8c50ca6c6de40114a9950/Screenshots/Screenshot%202025-11-05%20000738.png)) |
 
+
+## 📸 Demo Screenshots
+
+**Home Page (Intro + CTA)**  
+![Home](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/193109f28a1c987b14ecce84a36b9106798bb7cb/Screenshots/Screenshot%202025-11-05%20000706.png)
+
+---
+
+**Text → Ghibli Art Generation Page**  
+![TextToImage](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/9a7f5af286c0449753c8c50ca6c6de40114a9950/Screenshots/Screenshot%202025-11-04%20230556.png)
+
+---
+
+**Image → Ghibli Art Transformation Page**  
+![ImageToImage](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/9a7f5af286c0449753c8c50ca6c6de40114a9950/Screenshots/Screenshot%202025-11-05%20000640.png)
+
+---
+
+**Ghibli Art Library / Gallery**  
+![Library](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/9a7f5af286c0449753c8c50ca6c6de40114a9950/Screenshots/Screenshot%202025-11-05%20000738.png)
+
+
