@@ -51,3 +51,6 @@ Frontend is built using **React (Vite)** + **Tailwind**, backend uses **Spring B
 /service
 /client (OpenFeign)
 /config
+
+
+![image alt](https://github.com/theclumsycoder3/Ghibli-Ai-Art-Generator/blob/193109f28a1c987b14ecce84a36b9106798bb7cb/Screenshots/Screenshot%202025-11-05%20000706.png)
