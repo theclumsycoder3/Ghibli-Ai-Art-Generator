@@ -52,6 +52,8 @@ Frontend is built using **React (Vite)** + **Tailwind**, backend uses **Spring B
 /client (OpenFeign)
 /config
 
+---
+
 # 📸 Demo Screenshots
 
 **Home Page (Intro + CTA)**  
